@@ -29,7 +29,7 @@ src/
 # Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager-api.git
+git clone https://github.com/begench-borjakov/task-manager-api.git
 cd task-manager-api
 npm install
 
